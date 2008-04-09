@@ -10,7 +10,7 @@ Persistent Templates makes your custom templates "persistent", in that all child
 
 == Description ==
 
-This is a hard override, and any attempt at setting any child's template will be ignored. In future releases, the ability to specify individually different templates for children will be added.
+Persistent Templates makes your custom templates "persistent", in that all child sub-pages inherit their parent's template setting. This is a hard override, and any attempt at setting any child's template will be ignored. In future releases, the ability to specify individually different templates for children will be added.
 
 == Installation ==
 
